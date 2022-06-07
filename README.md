@@ -5,6 +5,11 @@
 > KHIAL Omar, LAFFONT Léo, SAVAETE Romain, LACERENZA Laris, BAJT Arthur
 
 ---
+
+## Vidéo de présentation : 
+
+https://user-images.githubusercontent.com/37304100/172496446-8c25b170-c7b8-4625-b547-f2c9d5dc5596.mp4
+
 ### Avant de lancer l'éditeur
 
 #### Version de l'éditeur :
